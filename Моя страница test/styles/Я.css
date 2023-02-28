@@ -11,7 +11,7 @@ html{
     font-weight: 400;
     font-size: 25px;
     line-height: 29px;
-    color: #000000;
+    color: black;
 }
 
 
@@ -183,7 +183,7 @@ html{
 
 }
 
-.class-photo{
+.class photo{
     width: 100%;
     max-width: 523px;
     height: 316px;
